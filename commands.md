@@ -5,7 +5,9 @@ python-dotenv-1.0.0
 djangorestframework==3.14.0
 pytest==7.4.3
 pytest-django-4.7.0
-
+black==23.11.0
+django-mptt==0.15.0
+drf-spectacular==0.26.5
 # Commands
 django-admin startproject drfecommerce
 
